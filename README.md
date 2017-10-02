@@ -6,4 +6,4 @@ Using this tool will help you create css code for bootstrap buttons. Easy to use
 
 <a href="https://pomerla.github.io/bootstrap-buttons-generator/">See demo</a>
 
-!["bootstrap-buttons-generator Presentation"](https://github.com/pomerla/bootstrap-buttons-generator/bootstrap-buttons-generator.png "bootstrap-buttons-generator Presentation")
+<img src="https://github.com/pomerla/bootstrap-buttons-generator/bootstrap-buttons-generator.png"/>
